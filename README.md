@@ -2,7 +2,9 @@
 
 A full-stack developer who enjoys building applications with a mix of creativity and code. In my free time, I like working on games and playing around with 3D modeling in Blender. Apart from coding, I also love to travel and hit the gym.
 
-- 🌱 I’m currently learning Go 
+- 🔭 I’m currently working on a video platform made with Go and occasionally Scooter Brothers made in Unreal Engine.
+- 🌱 I’m currently learning Go <img src="https://raw.githubusercontent.com/haitamattar/haitamattar/042f6595d8e4cfb766f66715ba1a9204f4309b38/goLogo.svg" height="30"/>
+- 💾 Main stack: VueJs, Laravel & PHP, MariaDB & Docker.
 
 <!--
 **haitamattar/haitamattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
