@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Haitam 👋
+
+A full-stack developer who enjoys building applications with a mix of creativity and code. In my free time, I like working on games and playing around with 3D modeling in Blender. Apart from coding, I also love to travel and hit the gym.
+
+- 🌱 I’m currently learning Go 
 
 <!--
 **haitamattar/haitamattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
